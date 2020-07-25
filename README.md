@@ -1,4 +1,4 @@
-# Network_Versus_Game_Python27
+# Network_Versus_Game_Python
 
 Simple game to teach network basics in Python.
 
